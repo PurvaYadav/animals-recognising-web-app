@@ -1,0 +1,23 @@
+.copy_right_footer {
+    text-align: center;
+    font-weight: bold;
+    float: none;
+    position: fixed;
+    bottom: 0px;
+    width:100%;
+    background-color: rgb(169, 175, 177);
+}
+.main_div {
+    background-color: rgb(169, 175, 177);
+    font-weight: bold;   
+}
+
+.col-xs-12 {
+ background-color: rgb(130, 136, 136);
+ font-weight: bold; 
+}
+
+body {
+    background-color: rgb(130, 136, 136);
+    color:white;
+}
